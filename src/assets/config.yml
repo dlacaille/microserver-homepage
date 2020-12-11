@@ -1,0 +1,22 @@
+sites:
+  - 
+    name: Plex
+    url: http://ubuntu.lan:32400/web/index.html
+    color: gold
+  -
+    name: TV Shows
+    url: http://ubuntu.lan:8989/
+    color: deepskyblue
+  -
+    name: Movies
+    url: http://ubuntu.lan:7878/
+    color: gold
+  - 
+    name: Downloads
+    url: http://ubuntu.lan:9091/transmission/web/
+    color: firebrick
+  -
+    name: Indexers
+    url: http://ubuntu.lan:9117/UI/Dashboard
+    ping: http://ubuntu.lan:9117/jacket_medium.png
+    color: gray
